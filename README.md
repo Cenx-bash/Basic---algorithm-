@@ -1,2 +1,2 @@
-# Basic---algorithm-
-learning basic data algo
+# Basic algorithm<br>
+learning basic data algorithm
